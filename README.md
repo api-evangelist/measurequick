@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-measureQuick is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://measurequick.com/
+measureQuick provides a residential HVAC commissioning platform that reads technician probes, scores systems against live conditions, and generates trusted reports. It supports over 80 tools across 17 brands, offering free and paid plans with advanced diagnostics, cloud dashboards, and training resources.
+
+**Areas:** Company · HVAC · Diagnostics · Residential · Software
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://measurequick.com/)
+- [Documentation](https://measurequick.com/documentation/)
+- [Getting started](https://measurequick.com/getting-started-with-static-pressure-diagnostics/)
+- [Pricing](https://measurequick.com/pricing/)
+- [Support](https://support.measurequick.com/)
+- [Changelog](https://measurequick.com/whats-new/)
+- [Terms of service](https://support.measurequick.com/portal/en/kb/articles/terms-of-service)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/measurequick/](https://apis.io/providers/measurequick/).
